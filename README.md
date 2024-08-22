@@ -1,5 +1,7 @@
 <h1> Panda Decoder 🐼 </h1>
 
+![](assets/panda-decoder.png)
+
 <h2>Sobre</h2> 
 O Panda Decoder é um decodificador de texto desenvolvido como parte do desafio de uma das etapas da ONE - Oracle Next Education em parceria com a Alura.
 
